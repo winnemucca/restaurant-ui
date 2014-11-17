@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(90deg, #F5CCE0, #990099
+);
+
+}
+
+
+.header {
+	height: 300px;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+.h
